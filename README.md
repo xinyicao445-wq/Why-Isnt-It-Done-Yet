@@ -1,4 +1,5 @@
 # Why Isn't It Done Yet? — Excuse Cat
+![Uploading b9f1afef018331082f5c616d560e8880.png…]()
 
 A tiny USB-powered e-paper excuse generator that lets a cat explain why your project still isn't done.
 
