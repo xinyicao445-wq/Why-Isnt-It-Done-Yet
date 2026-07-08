@@ -54,5 +54,29 @@ Code/
    ├─ eat_cat_bitmap.h
    ├─ hiss_cat_bitmap.h
    └─ cheems_bitmap.h
+## Current features
+
+- 60 offline excuses
+- Startup page
+- Excuse generator page
+- 10 ASCII cat moods
+- Pixel-style UI
+- Cat paw icon
+- 60-second auto return to home
+- Multi-press easter egg mode
+
+## Future ideas
+
+- Add motion or tilt interaction
+- Add gesture-based cat reactions
+- Add more cat moods
+- Add sensor-based reactions
+- Make it feel more like a tiny desktop pet
+
+## Notes
+
+This is a beginner-friendly Arduino project and still a work in progress.
+
+The main goal is to make a small e-paper object that feels fun, personal, and slightly ridiculous.
 
 
